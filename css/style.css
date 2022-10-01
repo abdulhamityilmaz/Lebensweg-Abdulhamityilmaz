@@ -1,0 +1,80 @@
+body {
+    font-family: Montserrat, sans-serif;
+    font-weight: 300;
+}
+
+h1, h2, h3, h4, h5, h6, .jdb-font-alt {
+    font-family: 'Oleo Script Swash Caps', cursive;
+}
+
+#navigation {
+    background-color: #404040;
+    padding: 0 !important;
+}
+
+#logo {
+    padding: 0 !important;
+    margin: 0 !important;
+}
+
+#container-fluid {
+
+    padding-left: 5 !important;
+
+}
+
+.header {
+    background: url('../Bilder/homepagebild.jpg') center  no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+
+.ueberuns {
+    background: url('../Bilder/CMG_www_Aktuelles_04\ -\ Kopie.jpg') center no-repeat;
+  
+    background-position: cover;
+    
+    height: 90vh;
+
+    
+    
+   
+}
+
+#cardueberuns {
+   
+    
+    height: 100%;
+    
+}
+
+
+
+.overlay{
+    width: 100%;
+    height: 100%;
+    background-color: rgba(51, 51, 51, .9);
+    position: absolute;
+    top: 0;
+
+    
+}
+
+.mietenangebote {
+
+    background-color: #21AD9B;
+}
+
+.verkauf>h1,h2,h3,h4,p {
+
+    font-family: 'Anton', sans-serif !important;
+font-family: 'Roboto', sans-serif !important;
+font-family: 'Shadows Into Light', cursive !important;
+}
+
+
+
+
+
+
+
